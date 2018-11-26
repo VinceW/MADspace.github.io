@@ -8,7 +8,7 @@ permalink: /projects/
 
 <div class="projects">
   <ul>
-    {% assign sorted = (site.projects | sort: 'title') %}
+    {% assign sorted = site.projects | sort: 'title' %}
     {% for project in sorted %}
       <li>
         <a class="project-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>

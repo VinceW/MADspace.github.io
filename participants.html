@@ -7,11 +7,11 @@ permalink: /participants/
 <h1>Deelnemers</h1>
 
 <div class="participants">
-
+  <ul>
     {% for participant in site.participants %}
       <li>
         <a class="participant-link" href="{{ participant.url | prepend: site.baseurl }}">{{ participant.title }}</a>
       </li>
     {% endfor %}
-
+  </ul>
 </div>
