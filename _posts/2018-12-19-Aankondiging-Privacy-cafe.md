@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aankondiging Privacy café
-date: 2018-12-03 20:00
+date: 2018-12-19 20:00
 ---
 
 # Aankondiging Privacy café
