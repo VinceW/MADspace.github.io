@@ -38,7 +38,7 @@ Deelnemer wordt je door het invullen van het inschrijfformulier (toekomst: onlin
 
 ## Incasso of automatische overboeking
 * Om het leven van de Penningmeester makkelijk te maken, verzoeken we je om de onderstaande incassomachtinging uit te printen (deze liggen evt. ook in de hackerspace klaar), in te vullen en in te leveren bij de Penningmeester. Geef hierbij ook je e-mail adres op!
-* Alternatief 1: je kunt een maandelijkse periodieke overboeking instellen van €25,-  (of meer) dit moet uiterlijk de eerste van iedere maand zichtbaar op onze rekening bijgeschreven staan, o.v.v. "maandelijksedeelnemersbijdrage <je_e-mail_adres>"
+* Alternatief 1: je kunt een maandelijkse periodieke overboeking instellen van €25,-  (of meer) dit moet uiterlijk de eerste van iedere maand zichtbaar op onze rekening bijgeschreven staan, o.v.v. "maandelijksedeelnemersbijdrage je_e-mail_adres"
 * Alternatief 2: je kunt maandelijks op de eerste dag van iedere maand ook €25,- met Bitcoin betalen (formule: €25,- / openingskoers). Wij hanteren hiervoor de openingskoers van iedere eerste dag van de maand gepubliceerd op Yahoo Finance (https://finance.yahoo.com/chart/BTC-EUR). Vraag aan de Penningmeester voor je persoonlijke Bitcoin rekening.
 
 ## Gratis open avonden
