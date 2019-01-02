@@ -435,7 +435,11 @@ img {
 }
 .news h3{
   padding-left: 30px;
+  font-size: 18px;
 }
 .nowrap {
   white-space: nowrap;
+}
+.center {
+    text-align: center;
 }
