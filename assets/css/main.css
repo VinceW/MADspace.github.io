@@ -433,3 +433,9 @@ img {
 .news {
    background-color: #b3cccc;
 }
+.news h3{
+  padding-left: 30px;
+}
+.nowrap {
+  white-space: nowrap;
+}
