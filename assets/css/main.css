@@ -443,3 +443,11 @@ img {
 .center {
     text-align: center;
 }
+.img-responsive {
+    width: 100%;
+}
+.footer-col {
+    display: inline-block;
+    padding-right: 130px;
+    padding-left: 130px;
+}
