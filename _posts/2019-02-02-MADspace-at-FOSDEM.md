@@ -16,19 +16,21 @@ en tevens ook de gangen. Het programma (zie [link](https://fosdem.org/2019/sched
 meer bekende sprekers en de lezingen gaven volop inzichten in de interne werking van het Java platform.
    
 Mark Reinhold, hoofd van de Open JDK community, deed zoals gewoonlijk de keynote. Al 22 jaar werkt 
-hij aan de JDK. Hij vertelde met allerlei voorbeelden gezond het Java ecosysteem verder ontwikkeld. 
-Hij vertelde over de veranderende koers. De Java community veranderde in de recente jaren 
+hij aan de JDK. Hij vertelde met allerlei voorbeelden hoe gezond het Java ecosysteem verder ontwikkeld,  
+met name over de veranderende koers. De Java community veranderde in de recente jaren 
 omdat het elk half jaar een nieuwe release wil realiseren (vroeger duurde dit jaren). 
-Java als platform kan heel goed concurreren met andere technologien, omat Java voortdurend
+En met succes: binnen enkele weken zal Java 12 beschikbaar komen! 
+Daarbij: Java als platform blijft heel goed concurreren met andere technologien, omdat Java voortdurend
 wordt ontwikkeld door een ecosystem van engineers met oog voor de lange termijn (aldus Reinhold). 
 
-De OpenJDK community is een wererld op zich. Erover leren kan eenvoudig via de website en meedoen 
-kan ook via een van hun vele maillist. Ikzelf ben ook van enkelen lid en vind het erg leuk om te  
+De OpenJDK community is een wererld op zich. Erover leren kan eenvoudig via [hun website](https://openjdk.java.net/) en meedoen 
+kan ook via een van vele OpenJDK maillists. Ikzelf ben ook van enkelen lid en vind het erg leuk om te  
 zien hoe grote voorbeelden uit de community met elkaar uitgebreid communiceren over de JDK.   
 Volkert Simonis, head Java platform bij SAP, vertelde over het eco-systeem van de OpenJDK. Zijn 
 presentatie staat [hier](https://simonis.github.io/FOSDEM2019/RumbleInTheJavaJungle/rumble.xhtml#/). 
 De OpenJDK community heeft heel veel oog voor performance. De meeste talks hadden wel enige relatie met performance.    
 Precies mijn interesse gebied! Zie deze [link](https://live.fosdem.org/watch/h1302) kun je meekijken. 
 
-Heel veel kijkplezier!
+Heel veel kijkplezier met het videomateriaal en ook alvast met Java 12!
  
+mvg Koen
