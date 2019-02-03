@@ -3,6 +3,7 @@ layout: post
 title: Naar FOSDEM 2019 met MADspace
 date: 2019-02-02 14:00
 ---
+<br><br>
 
 **Naar FOSDEM 2019 met MADspace**
 
@@ -14,7 +15,7 @@ De sfeer op de FOSDEM conferentie is erg goed: iedereen heeft (en deelt) passie 
 Elke hacker bepaalt dus een eigen dagprogramma naar wens. Voorgaande jaren ging ik ook naar de OpenJDK Devroom, dus ook dit jaar.
 
 Elk jaar komt hier de OpenJDK community bijeen, met focus op het Java platform: helemaal mijn interesse gebied! In de OpenJDK DevRoom geven +/- 20 toonaangevende Open Source professionals korte lezingen. 
-Ik vond het dit jaar nog drukker in de Devroom dan voorheen, bij elke talk was de volledige college-zaal bezet en tevens ook de gangen. Het programma (zie [link](https://fosdem.org/2019/schedule/track/free_java/) vond ik ook beter: 
+Ik vond het dit jaar nog drukker in de Devroom dan voorheen, bij elke talk was de volledige college-zaal bezet en tevens ook de gangen. Het programma (zie [link](https://fosdem.org/2019/schedule/track/free_java/)) vond ik ook beter: 
 meer bekende sprekers en de lezingen gaven volop inzichten in de interne werking van het Java platform.
    
 Mark Reinhold, hoofd van de Open JDK community, deed zoals gewoonlijk de keynote. Al 22 jaar werkt hij aan de JDK. Hij vertelde met allerlei voorbeelden hoe gezond het Java ecosysteem verder ontwikkeld, met name over de veranderende koers. De Java community veranderde in de recente jaren omdat het elk half jaar een nieuwe release wil realiseren (vroeger duurde dit jaren). 
@@ -22,6 +23,6 @@ En met succes: binnen enkele weken zal Java 12 beschikbaar komen! Daarbij: Java 
 
 De OpenJDK community is een wererld op zich. Erover leren kan eenvoudig via [hun website](https://openjdk.java.net/) en meedoen kan ook via een van vele OpenJDK maillists. Ikzelf ben ook van enkelen lid en vind het erg leuk om te zien hoe grote voorbeelden uit de community met elkaar uitgebreid communiceren over de JDK.   
 Volkert Simonis, head Java platform bij SAP, vertelde over het eco-systeem van de OpenJDK. Zijn presentatie staat [hier](https://simonis.github.io/FOSDEM2019/RumbleInTheJavaJungle/rumble.xhtml#/). 
-De OpenJDK community heeft heel veel oog voor performance. De meeste talks hadden wel enige relatie met performance. Precies mijn interesse gebied! Zie deze [link](https://live.fosdem.org/watch/h1302) kun je meekijken. 
+De OpenJDK community heeft heel veel oog voor performance. De meeste talks hadden wel enige relatie met performance. Precies mijn interesse gebied! Via deze [link](https://live.fosdem.org/watch/h1302) kun je meekijken. 
 
 Heel veel kijkplezier met het videomateriaal en ook alvast met Java 12! mvg Koen
