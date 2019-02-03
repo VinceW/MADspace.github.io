@@ -23,6 +23,9 @@ En met succes: binnen enkele weken zal Java 12 beschikbaar komen! Daarbij: Java 
 
 De OpenJDK community is een wererld op zich. Erover leren kan eenvoudig via [hun website](https://openjdk.java.net/) en meedoen kan ook via een van vele OpenJDK maillists. Ikzelf ben ook van enkelen lid en vind het erg leuk om te zien hoe grote voorbeelden uit de community met elkaar uitgebreid communiceren over de JDK.   
 Volkert Simonis, head Java platform bij SAP, vertelde over het eco-systeem van de OpenJDK. Zijn presentatie staat [hier](https://simonis.github.io/FOSDEM2019/RumbleInTheJavaJungle/rumble.xhtml#/). 
-De OpenJDK community heeft heel veel oog voor performance. De meeste talks hadden wel enige relatie met performance. Precies mijn interesse gebied! Via deze [link](https://live.fosdem.org/watch/h1302) kun je meekijken. 
+De OpenJDK community heeft heel veel oog voor performance. De meeste talks hadden wel enige relatie met performance. Precies mijn interesse gebied! 
+
+Het videomateriaal van alle sessies komt binnenkort online. Via deze [link](https://www.youtube.com/watch?v=4r2Wg-TY7gU) kun je alvast kijken naar de talk van Brain Goetz (dezelfde talk deed hij eind 2018 op Devoxx).
 
 Heel veel kijkplezier met het videomateriaal en ook alvast met Java 12! mvg Koen
+
