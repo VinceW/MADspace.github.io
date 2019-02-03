@@ -4,7 +4,7 @@ title: Aankondiging - FOSDEM afterparty on 2019-02-06
 date: 2019-02-06 20:00
 ---
 
-# Aankondiging FOSDEM afterparty
+# Aankondiging FOSDEM afterparty 2019-02-06
 
 Dear hackers,
 
@@ -12,9 +12,9 @@ With a group we went to FOSDEM, the biggest Open Source conference in Europe [FO
 
 A weekend filled with the coolest talks on Open Source. 
 
-Tonight we share our findings and highlights of this conference! 
+On Wednesday 2019-02-06 we share our findings and highlights of this conference! 
 
-Join us and enjoy our memories about this great hackerweekend!
+Join us this evening and enjoy our memories about this great hackerweekend!
 
 Register via mail or via [our meetup](https://www.meetup.com/MADspace/events/pqgdnqyzdbjb/).  
 
