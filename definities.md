@@ -4,7 +4,7 @@ title: Definities
 permalink: /definities/
 ---
 
-# CONCEPT Definities
+# Definities
 
 ## Abstract
 * Iedereen is akkoord met de [huisregels](/huisregels/) van Stichting MADspace.
@@ -17,6 +17,11 @@ permalink: /definities/
 ## Gast
 * Een gast is welkom op de wekelijkse openavond (woensdagavond) van Stichting MADspace.
 * Als een gast Stichting MADspace ook doneert betekend dit niet dat de gast ook automatisch (aspirant-)deelnemer is.
+
+## Groep (Gasten)
+* Privacy Werkgroep / Privacy Cafe Eindhoven
+* Internet of Things Eindhoven (IoT)
+* Embedded Systems Eindhoven (emse.nl)
 
 ## Aspirant-deelnemer
 * Een aspirant-deelnemer is een proeftijd tot volwaardig deelnemer van Stichting MADspace.
@@ -34,5 +39,9 @@ permalink: /definities/
 ## Bestuurslid
 * Een bestuurslid zorgt voor het reilen en zeilen van Stichting MADspace.
 
+## Bestuur
+
 ## Final
+
+#### De laatste actuele versie staat op [https://www.madspace.nl/definities/](https://www.madspace.nl/definities/)
 

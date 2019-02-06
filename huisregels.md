@@ -4,7 +4,7 @@ title: Huisregels
 permalink: /huisregels/
 ---
 
-# CONCEPT Huisregels
+# Huisregels
 
 1. iedereen dient zich aan de huisregels van Stichting MADspace te houden.
 2. iedereen heeft het recht en de plicht om de ander aan te spreken, te waarschuwen en te wijzen op deze huisregels zodra er niet conform de huisregels wordt gehandeld.
@@ -17,4 +17,6 @@ permalink: /huisregels/
 9. bij niet juist handelen conform deze huisregels kan na een waarschuwing weigering en uitzetting direct door iedereen worden uitgevoerd. Er dient daarna zo spoedig mogelijk een verslag te worden uitgebracht aan [bestuur@madspace.nl](mailto:bestuur@madspace.nl).
 10. iedereen heeft en neemt eigen verantwoordelijkheid over zijn of haar handelen.
 11. bij problemen beslist het bestuur.
+
+#### De laatste actuele versie staat op [https://www.madspace.nl/huisregels/](https://www.madspace.nl/huisregels/)
 
