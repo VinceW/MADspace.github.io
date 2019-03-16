@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Aankondiging privacy café - 13 maart 2019 op de locatie van MADspace
+title: Aankondiging privacy café on 2019-03-13
 date: 2019-03-13 20:00
 ---
 
-# Aankondiging privacy café - 13 maart 2019 op de locatie van MADspace
+# Aankondiging privacy café - 13 maart 2019 
 
 Politiek café: Politiek, ICT & Privacy.
 
