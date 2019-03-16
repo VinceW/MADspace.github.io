@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aankondiging - Privacy cafe - IRMA - on 2019-02-20
+title: Aankondiging - Privacy cafe - IRMA (2019-02-20)
 date: 2019-02-19 20:00
 ---
 

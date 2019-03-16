@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aankondiging - FOSDEM afterparty on 2019-02-06
+title: Aankondiging - FOSDEM afterparty (2019-02-06)
 date: 2019-02-06 20:00
 ---
 

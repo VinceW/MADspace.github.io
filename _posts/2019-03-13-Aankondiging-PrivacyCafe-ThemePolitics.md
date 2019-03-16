@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aankondiging privacy café on 2019-03-13
+title: Aankondiging - privacy café - politics (2019-03-13)
 date: 2019-03-13 20:00
 ---
 

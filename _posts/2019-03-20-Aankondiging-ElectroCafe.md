@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aankondiging - Electro café - 2019-03-20
+title: Aankondiging - Electro café - (2019-03-20)
 date: 2019-03-20 20:00
 ---
 # Aankondiging electronica café - 20 maart 2019 
