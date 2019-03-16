@@ -15,12 +15,12 @@ Zes keer per jaar houden zij een bijeenkomst bij MADspace.
 _Aanvang, inlopen & koffie is om 20:00 uur;_
 
 **Voorbeeld topics bij dit café:**
-- trendy arduino projecten [https://create.arduino.cc/projecthub]
-- arduino simulators [https://windowsreport.com/arduino-simulators/]
-- raspberry pie [https://www.raspberrypi.org/]
+- trendy arduino projecten [https://create.arduino.cc/projecthub](https://create.arduino.cc/projecthub)
+- arduino simulators [https://windowsreport.com/arduino-simulators/](https://windowsreport.com/arduino-simulators/)
+- raspberry pie [https://www.raspberrypi.org/](https://www.raspberrypi.org/)
  
 
-<img style='width:200px;height:200px' src='https://images.pexels.com/photos/132700/pexels-photo-132700.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260' />
+<img style='width:300px;height:300px' src='https://images.pexels.com/photos/132700/pexels-photo-132700.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260' />
 
 <HR/>
 
