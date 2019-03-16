@@ -12,7 +12,7 @@ Zes keer per jaar houden zij een bijeenkomst bij MADspace.
 
 -----
 
-_Aanvang, inlopen & koffie is om 20:00 uur;_
+_Aanvang, inlopen &amp; koffie is om 20:00 uur;_
 
 **Voorbeeld topics bij dit café:**
 - trendy arduino projecten [https://create.arduino.cc/projecthub](https://create.arduino.cc/projecthub)

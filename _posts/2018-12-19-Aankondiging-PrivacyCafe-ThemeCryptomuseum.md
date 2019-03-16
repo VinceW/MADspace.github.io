@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aankondiging - Privacy café - Crypomusum (2018-12-19)
+title: Aankondiging - Privacy café - Cryptomuseum (2018-12-19)
 date: 2018-12-19 20:00
 ---
 

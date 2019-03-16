@@ -10,7 +10,7 @@ Yesterday MADspace hosted the second workshop of in total 5 consecutive workshop
 Again we had a great turn-out, its was a full-house and 'ow boy, did we have fun'!
 
 After a impressive presentation by John about the possibilities by using sensors, switches, actuators and other devices, we started by building our own sensor and switch.
-Using nothing more then a breadboard, a sensor and LED, a few wires & resistors and of course a ESP8266 SoC, those who attended where able to build their own sensor from scratch.
+Using nothing more then a breadboard, a sensor and LED, a few wires and resistors and of course a ESP8266 SoC, those who attended where able to build their own sensor from scratch.
 By flashing and programming the ESP8266 chip and a readily provided Domoticz installation, it was fantastic to see everybody get a readout in Domoticz and able to switch the LED with a click of the mouse!
 How great is that! And once you've seen it, it's fairly easy to understand the underlying mechanisms.
 
@@ -27,7 +27,7 @@ A short impression of the evening:
 In the upcoming workshops we are going to further exploring the posibilities of domotica.
 
 We are trying to cover as much as relevant and we have some fantastic idea's for the upcoming workshops.
-As such, we are still finetunireadily providedng the planing and preparing the content.
+As such, we are still finetuning and preparing the content.
 A further planning will follow, we will let you know on the mailing list.
 
 <b>Please register at the Meetup website if you wish to attent:</b>
