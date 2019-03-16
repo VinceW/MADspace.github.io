@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Naar FOSDEM 2019 met MADspace
+title: Blog - Naar FOSDEM 2019 met MADspace (2019-02-02)
 date: 2019-02-02 14:00
 ---
 <br><br>
 
-**Naar FOSDEM 2019 met MADspace**
+**Naar FOSDEM 2019 met MADspace **
 
 _Dit is het jaarlijkse hoogtepunt voor de Open Source fans in Europa: [FOSDEM in Brussel](https://fosdem.org). -De- conferentie 
 waar je als community elkaar kunt ontmoeten, met ruim 8000 Open Source professionals uit heel Europa._
@@ -27,5 +27,5 @@ De OpenJDK community heeft heel veel oog voor performance. De meeste talks hadde
 
 Het videomateriaal van alle sessies komt binnenkort online. Via deze [link](https://www.youtube.com/watch?v=4r2Wg-TY7gU) kun je alvast kijken naar de talk van Brain Goetz (dezelfde talk deed hij eind 2018 op Devoxx).
 
-Heel veel kijkplezier met het videomateriaal en ook alvast met Java 12! mvg Koen
+Heel veel kijkplezier met het videomateriaal en ook alvast met Java 12! mvg Koen (2019-02-02)
 
