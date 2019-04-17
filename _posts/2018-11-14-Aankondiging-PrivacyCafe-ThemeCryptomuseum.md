@@ -16,4 +16,6 @@ Technieken zoals:
 - Hashing
 - Crypto algoritmen
 
+Meer informatie, zie deze website: [https://www.cryptomuseum.com/](https://www.cryptomuseum.com/)
+
 Kortom: een zeer leerzame avond en over cryptografie zullen we nog veel meer interessante kennis delen. 
