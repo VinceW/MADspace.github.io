@@ -10,7 +10,7 @@ Woensdagmiddag 5 juni hebben we weer een privacy cafe, ditmaal met als thema spi
 
 *Agenda* 
 
-Vanaf 19:30 draaien we recente Youtubes van bekende autoriteiten over de NSA
+Vanaf 19:30 draaien we recente Youtubes van gerenomeerde privacy deskundigen die met name spreken over de NSA.
 
 Vanaf 21:00 tot 22:30 historische verkenning over de spionage-techniek (cryptografie) vanaf ca. 1900 tot 1950.
 
