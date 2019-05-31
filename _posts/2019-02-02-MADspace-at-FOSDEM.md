@@ -5,7 +5,7 @@ date: 2019-02-02 14:00
 ---
 <br><br>
 
-**Naar FOSDEM 2019 met MADspace **
+**Naar FOSDEM 2019 met MADspace**
 
 _Dit is het jaarlijkse hoogtepunt voor de Open Source fans in Europa: [FOSDEM in Brussel](https://fosdem.org). -De- conferentie 
 waar je als community elkaar kunt ontmoeten, met ruim 8000 Open Source professionals uit heel Europa._
