@@ -30,7 +30,7 @@ Woensdagmiddag 5 juni hebben we weer een privacy cafe, ditmaal met als thema spi
 
 - [SPIONAGE: Meerderheid 2e Kamer wil niet dat Huawei nu meedoet bij aanleg 5G-netwerk](https://www.youtube.com/watch?v=lfaoJ1LS5mo)
 
-- [Minister-President over China, Huawei én 5G-netwerk | Debat EU top en China](https://www.youtube.com/watch?v=71Ggm746kE8)
+- [Kamerdebat over China, Huawei en 5G-netwerk tijdens Debat EU top en China](https://www.youtube.com/watch?v=71Ggm746kE8)
 
 - [Hoe de 5G van Huawei de wereld verdeelt](https://www.youtube.com/watch?v=S-xQXXupMlo)
 
