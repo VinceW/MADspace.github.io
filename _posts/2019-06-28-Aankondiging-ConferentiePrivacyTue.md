@@ -17,6 +17,6 @@ Het programma voor vrijdag 28 juni staat [hier](https://www.win.tue.nl/eipsi/sur
 
 Op zaterdag 29 juni houden we aansluitend een -besloten- event voor onze Privacy werkgroep.
 
-We bezoeken dhistorische plekken in Eindhoven met als thema 'Spionage-technologie in de 2e wereldoorlog'. 
+We bezoeken historische plekken in Eindhoven met als thema 'Spionage-technologie in de 2e wereldoorlog'. 
 
 De activiteit begint om 13:30 en eindigt om 17:30 met pizza's bij MADspace. 
