@@ -3,6 +3,9 @@ layout: post
 title: Aankondiging - Conference Privacy TU Eindhoven (2019-06-28)
 date: 2019-06-28 08:30
 ---
+<br>
+
+<h2>Aankondiging - Conference Privacy TU Eindhoven (2019-06-28)</h2>
 
 Met onze Privacy werkgroep bezoeken we de jaarlijkse Privacy conferentie van de TU Eindhoven. 
 
