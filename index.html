@@ -16,7 +16,7 @@ permalink: index.html
 -->
 <div class="center">
 <a class='mainImageLink' href="https://www.meetup.com/MADspace/" title="Onze locatie is in het culturele van Abbe-huis (tegenover het van Abbe-museum) "><img
-  class="img-responsive" style="width:100%;display: inline;"
+  class="img-responsive" style="width:50%;display: inline;"
   src="https://images4.persgroep.net/rcs/4PmS0Mh6bnKlErPLXMLUVMGPJ60/diocontent/66856635/_fill/768/521/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9" /></a>
 
     <p> Onze locatie is in het culturele <a href="https://www.google.nl/maps/place/Albert+van+Abbehuis/@51.4338265,5.4798387,17z/data=!3m1!4b1!4m5!3m4!1s0x47c6d901fa9d61ad:0x6a3074b12c8d0b60!8m2!3d51.4338265!4d5.4820274">van Abbe-huis</a> </p>
@@ -31,7 +31,7 @@ permalink: index.html
 </div>
 <div class="news">
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Laatste nieuws" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Upcoming events:" }}</h2>
     {%- for post in site.posts -%}
       <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
     {%- endfor -%}
