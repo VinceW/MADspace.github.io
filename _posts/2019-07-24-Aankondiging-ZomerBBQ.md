@@ -4,7 +4,7 @@ title: Aankondiging - Summer BBQ MADspace (2019-07-24)
 date: 2019-07-24 17:30
 ---
 <br />
-<h2>Aankondiging - Summer BBQ MADspace (2019-07-24)<h2>
+<h2>Aankondiging - Summer BBQ MADspace (2019-07-24)</h2>
 
 Op deze woensdagavond houden we een BBQ voor onze vaste bezoekers en hun introducees. 
 
