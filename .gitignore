@@ -9,3 +9,5 @@ node_modules*
 *.bak
 *.swp
 *.sav
+
+.idea/*
