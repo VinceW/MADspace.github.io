@@ -30,7 +30,7 @@ Hele indrukwekkende historie van veiligheidsdiensten en voor velen van ons was d
 [Edward Snowden](https://freedom.press/about/board/) was de publiekstrekker van de conferentie, hij sprak een uur lang via video-conference over hoe ontzettend anders het internet is geworden dan oorspronkelijk was voorzien. 
 Hij was vol lof over de mogelijkheden van cryptologie op het web. <BR/>
 Mijn favoriet van de dag was [Sjoera Nas](https://www.privacycompany.eu/en/impact-assessment-shows-privacy-risks-microsoft-office-proplus-enterprise/), zij presenteerde haar onderzoek naar de juridische aspecten van de Microsoft licentie (met name het product Microsoft 365). Ingewikkelde juridische materie dus. 
-Microsoft blijkt standaard een zeer privacy onvriendelijke overeenkomsten te sluiten, waarbij ze zichzelf in een enorme voordeelpositie manouvreren. Hier [het onderzoeksdocument](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6509739957106597888) waar ze over sprak. <BR/>
+Microsoft blijkt zeer privacy-onvriendelijke overeenkomsten te sluiten, daarbij zichzelf in een enorme voordeelpositie manouvreert. Hier [het onderzoek](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6509739957106597888) waar ze over sprak. <BR/>
 De afsluiting van de conferentie werd gedaan [door Sofia Celi](https://twitter.com/claucece)(de partner van Ola Bini, een privacy activist die recent is opgepakt in Ecuador). 
 Zij sprak over hoe gevaarlijk het kan zijn om privacysoftware te ontwikkelen. Ze was opgelucht dat Ola Bini weer vrij was gelaten onder druk van de internationale aandacht die deze zaak heeft gekregen. 
 Nog meer aandacht zou fijn zijn, want het proces loopt nog. <BR/> 
