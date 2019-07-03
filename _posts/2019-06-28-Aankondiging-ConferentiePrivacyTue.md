@@ -31,6 +31,7 @@ Hele indrukwekkende historie van veiligheidsdiensten en voor velen van ons was d
 Hij was vol lof over de mogelijkheden van cryptologie op het web. <BR/>
 Mijn favoriet van de dag was [Sjoera Nas](https://www.privacycompany.eu/en/impact-assessment-shows-privacy-risks-microsoft-office-proplus-enterprise/), zij presenteerde haar onderzoek naar de juridische aspecten van de Microsoft licentie (met name het product Microsoft 365). Ingewikkelde juridische materie dus. 
 Microsoft blijkt zeer privacy-onvriendelijke overeenkomsten te sluiten, daarbij zichzelf in een enorme voordeelpositie manouvreert. Hier [het onderzoek](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6509739957106597888) waar ze over sprak. <BR/>
-De afsluiting van de conferentie werd gedaan [door Sofia Celi](https://twitter.com/claucece)(de partner van Ola Bini, een privacy activist die recent is opgepakt in Ecuador). 
-Zij sprak over hoe gevaarlijk het kan zijn om privacysoftware te ontwikkelen. Ze was opgelucht dat Ola Bini weer vrij was gelaten onder druk van de internationale aandacht die deze zaak heeft gekregen. 
-Nog meer aandacht zou fijn zijn, want het proces loopt nog. <BR/> 
+De afsluiting van de conferentie werd gedaan door [Sofia Celi](https://twitter.com/claucece) (de partner van Ola Bini, een privacy activist die recent is opgepakt in Ecuador). 
+Zij sprak over het ontwikkelen van privacysoftware EN hoe politiek riskant dit kan zijn. Opgelucht dat Bini weer vrij was gelaten (onder druk van internationale aandacht), verzocht ze de zaal  
+om -nog- meer aandacht voor deze zaak te geven: het proces loopt immers nog. Via [deze link](https://freeolabini.org/en/) kun je helpen.<BR/> 
+Iedereen was het met elkaar eens: de conferentie was een groot succes en volgend jaar gaan we weer!<BR/>
