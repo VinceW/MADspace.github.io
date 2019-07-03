@@ -4,7 +4,10 @@ title: Aankondiging - Filmavond - NSA (2019-07-10)
 date: 2019-07-10 20:00
 ---
 
-Op deze avond kijken we in onze filmruimte enkele documentaires over de Amerikaanse NSA. We beginnen omstreeks 20:00 en eindigen om 23:00. 
+
+<h1>Filmavond - NSA (2019-07-10)</h1>
+
+Op deze avond kijken we in onze filmruimte enkele documentaires over de Amerikaanse NSA. _We beginnen omstreeks 20:00 en eindigen om 23:00._ 
 
 Hieronder enkele voorbeeld documentaires ter inspiratie: 
 
