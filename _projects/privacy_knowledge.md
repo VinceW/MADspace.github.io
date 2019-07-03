@@ -8,7 +8,7 @@ Bij MADspace houden we regelmatig bijeenkomsten rondom Privacy, zogenaamde Priva
 
 Hierin delen we kennis over de actualiteiten en over hoe je zelf kunt zorgen voor jouw privacy online.  
 
-Handige links voor over privacy tooling
+Handige links voor privacy tooling
 
 - [https://www.privacytools.io](https://www.privacytools.io)
 
@@ -16,4 +16,6 @@ Handige links voor over privacy tooling
 
 Handige links voor het bijhouden van de actualiteiten:
 
--  
+- [https://www.privacynieuws.nl](https://www.privacynieuws.nl) 
+
+- [https://www.security.nl/](https://www.security.nl/) 
