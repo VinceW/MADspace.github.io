@@ -16,4 +16,4 @@ Inschrijven is gratis en dit kan via mail naar [info@madspace.nl](info@madspace.
 
 Inlopen kan vanaf 17:30 en het zomerfeest duurt tot ongeveer 00:00. 
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/British_Barbecue.jpg/1920px-British_Barbecue.jpg' style='width:450px;height:350px' />
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/British_Barbecue.jpg/1920px-British_Barbecue.jpg' style='width:95%;height:350px' />
