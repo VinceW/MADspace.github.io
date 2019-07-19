@@ -10,7 +10,7 @@ Op deze woensdagavond houden we een BBQ voor onze vaste bezoekers en hun introdu
 
 Het Van Abbe huis heeft een ruime tuin, waarin we met een grote groep gaan BBQ-en. 
  
-Inschrijven voor de BBQ kan tot 22 juli (zodat we weten hoeveel eten MADspace moet inkopen).
+Inschrijven voor de BBQ kan tm 23 juli (zodat we weten hoeveel eten MADspace moet inkopen).
 
 Inschrijven is gratis en dit kan via mail naar [info@madspace.nl](info@madspace.nl). 
 
