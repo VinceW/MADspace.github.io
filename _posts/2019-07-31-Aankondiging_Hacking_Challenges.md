@@ -12,7 +12,7 @@ Security skills are in high demand! As the world continues to turn everything in
 
 Expect an evening with other people playing hacking games both easy and moderate. 
 
-We help each other. Bring your laptop and good mood. 
+We help each other. <u><i> Bring your laptop and good mood.</i></u> 
 
 <h2>Program</h2>
 - 19:00 doors open
