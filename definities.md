@@ -23,10 +23,6 @@ permalink: /definities/
 * Internet of Things Eindhoven (IoT)
 * Embedded Systems Eindhoven (emse.nl)
 
-## Aspirant-deelnemer
-* Een aspirant-deelnemer is een proeftijd tot volwaardig deelnemer van Stichting MADspace.
-* Je kunt maximaal 1 jaar aspirant-deelnemer zijn. Daarna (indien beide partijen akkoord zijn) wordt je volwaardig deelnemer van Stichting MADspace.
-
 ## Deelnemer
 * Krijgt een gebruikersaccount (onder je eigen voornaam, indien nog beschikbaar).
 * Krijgt een deursleutel die 24/7 toegang biedt tot de hackerspace (op termijn, indien de verhuurder het toestaat).
