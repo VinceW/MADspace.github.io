@@ -10,9 +10,19 @@ permalink: /projects/
   <ul>
     {% assign sorted = site.projects | sort: 'title' %}
     {% for project in sorted %}
-      <li>
-        <a class="project-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
-      </li>
+    <li>
+      <a class="project-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+<div class="projects">
+  <ul>
+    {% assign sorted = site.securityProjects | sort: 'title' %}
+    {% for project in sorted %}
+    <li>
+      <a class="project-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+    </li>
     {% endfor %}
   </ul>
 </div>
