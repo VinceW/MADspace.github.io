@@ -5,7 +5,7 @@ date: 2019-08-21 19:00
 ---
 <br/>
 <br/>
-<h1>Flutter: the new way to create mobile (Ios & Android) apps</h>
+<h1>Flutter: the new way to create mobile (Ios & Android) apps</h1>
 
 In this meetup we'll introduce you into the magic world of Flutter, the newest way to build mobile apps.
 Flutter is Google’s portable UI toolkit for building beautiful, natively-compiled applications for mobile, web, and desktop from a single codebase.
