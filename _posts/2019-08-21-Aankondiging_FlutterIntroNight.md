@@ -15,9 +15,12 @@ Flutter is Google’s portable UI toolkit for building beautiful, natively-compi
 Program:<br/>
 19:00 doors open<br/>
 20:00 Introducing Flutter by [@taym95](https://twitter.com/taym95)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Why Flutter is the new way to create mobile(Ios & Android) apps</i><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Why Flutter is the new way to create mobile apps (iOS & Android)</i><br/>
 21:00 break<br/>
 21:15 demo's: Flutter in Action!<br/>
 
 -------
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fq4N0hgOWzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-------
