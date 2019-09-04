@@ -11,7 +11,7 @@ _Firebase_ is a mobile and web application development platform, with over 18 cl
 [@taym95](https://twitter.com/taym95) and MADspace had a great time on last Flutter evening [08/21](https://www.madspace.nl/2019/08/21/Aankondiging_FlutterIntroNight.html). 
  Wednesday 11 september is the sequence: in a 2 hour during workshop we will develop flutter applications with a Firebase backend. 
 
-_Requirements beforehand_
+_Preparations_
 
  - bring your own laptop
  - install Flutter beforehand and try some 'hello world'-examples
