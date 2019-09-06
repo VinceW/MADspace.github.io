@@ -24,10 +24,10 @@ _Program_
  
 _References_
  
- - https://flutter.dev/docs/get-started/install
- - https://flutter.dev/docs/resources/technical-overview
- - https://codelabs.developers.google.com/codelabs/flutter-firebase/index.html#0
- - https://firebase.google.com/docs/flutter/setup
+ - [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
+ - [https://flutter.dev/docs/resources/technical-overview](https://flutter.dev/docs/resources/technical-overview)
+ - [https://codelabs.developers.google.com/codelabs/flutter-firebase/index.html](https://codelabs.developers.google.com/codelabs/flutter-firebase/index.html)
+ - [https://firebase.google.com/docs/flutter/setup](https://firebase.google.com/docs/flutter/setup)
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DqJ_KjFzL9I" frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
