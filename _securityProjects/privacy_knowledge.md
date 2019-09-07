@@ -1,7 +1,6 @@
 ---
 layout: project
 title: Privacy Knowledge
-date:   2019-07-03 19:30:01
 ---
 
 Bij MADspace houden we regelmatig bijeenkomsten rondom Privacy, zogenaamde Privacy Cafe's. 

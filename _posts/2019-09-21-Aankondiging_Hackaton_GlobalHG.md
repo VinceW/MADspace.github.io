@@ -5,11 +5,13 @@ date: 2019-09-21 9:00 - 22:00
 ---
 <BR/><BR/>
 
-Saturday 21 september and 22 september we are having a social hackathon in Eindhoven, called Hack Global Goals.
+Saturday 21 september and 22 september we are having a social hackathon in Eindhoven, called Hack Global Goals. Locatie: BounceSpace Eindhoven (1 Bogert, 5612 LX Eindhoven)
 
-Free registration: https://www.eventbrite.nl/e/tickets-preregistration-hack-global-goals-2019-september-20-22-67282506789
+- [Free registration](https://www.eventbrite.nl/e/tickets-preregistration-hack-global-goals-2019-september-20-22-67282506789)
 
-Presentation: https://www.madspace.nl/docs/HackGlobalGoalsPitch.pdf
+- [Presentation](https://www.madspace.nl/docs/HackGlobalGoalsPitch.pdf)
+
+- [Planned hacking topics](https://www.madspace.nl/docs/ChallengesHGG2019.pdf)
 
 **Program for Saturday 21.09.2019** 
 10:00 – 11:00 Workshop on Creativity in Diversity by Hans Kokhuis 
