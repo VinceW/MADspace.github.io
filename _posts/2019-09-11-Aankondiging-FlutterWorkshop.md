@@ -3,6 +3,10 @@ layout: post
 title: Workshop - Flutter and Firebase (2019-09-11)
 date: 2019-09-11 19:00 - 22:00
 ---
+<br/>
+<br/>
+<h1>Workshop - Flutter and Firebase (2019-09-11)</h1>
+
 Tonight we have a workshop on 2 very powerful technologies: Flutter and Firebase. 
 
 Register via mail towards [info@madspace.nl](info@madspace.nl) or via our [meetup](https://www.meetup.com/MADspace/events/pqgdnqyzmbpb/). 

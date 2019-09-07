@@ -5,6 +5,8 @@ date: 2019-09-21 9:00 - 22:00
 ---
 <BR/><BR/>
 
+<h1>Hackaton - Global Hack Goals (2019-09-21)</h1>
+
 Saturday 21 september and 22 september we are having a social hackathon in Eindhoven, called Hack Global Goals. Locatie: BounceSpace Eindhoven (1 Bogert, 5612 LX Eindhoven)
 
 - [Free registration](https://www.eventbrite.nl/e/tickets-preregistration-hack-global-goals-2019-september-20-22-67282506789)
