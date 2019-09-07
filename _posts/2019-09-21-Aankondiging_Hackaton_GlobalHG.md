@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hackaton - Flutter and Firebase (2019-09-21)
+title: Hackaton - Global Hack Goals (2019-09-21)
 date: 2019-09-21 9:00 - 22:00
 ---
 <BR/><BR/>
