@@ -14,7 +14,7 @@ Register via mail towards [info@madspace.nl](info@madspace.nl) or via our [meetu
 _Flutter_ is an app SDK for building high-performance, high-fidelity apps for iOS, Android, and web (early access) from a single codebase.
 _Firebase_ is a mobile and web application development platform, with over 18 cloud products, used by over 1.5 million apps (end 2018). 
 
-[@taym95](https://twitter.com/taym95) and MADspace had a great time on last Flutter evening [08/21](https://www.madspace.nl/2019/08/21/Aankondiging_FlutterIntroNight.html). 
+We at MADspace had a great time on last Flutter evening [08/21](https://www.madspace.nl/2019/08/21/Aankondiging_FlutterIntroNight.html). 
  Wednesday 11 september is the sequence: in a 2 hour during workshop we will develop flutter applications with a Firebase backend. 
 
 _Preparations_
