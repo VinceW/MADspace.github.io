@@ -9,7 +9,7 @@ date: 2019-09-18 19:00 - 22:00
 
 Tonight we have a workshop on 2 very powerful technologies: Flutter and Firebase. 
 
-Register via mail towards [info@madspace.nl](info@madspace.nl) or via our [meetup](https://www.meetup.com/MADspace/events/pqgdnqyzmbpb/). 
+Register via mail towards [info@madspace.nl](info@madspace.nl) or via our [meetup](https://www.meetup.com/MADspace/). 
 
 _Flutter_ is an app SDK for building high-performance, high-fidelity apps for iOS, Android, and web (early access) from a single codebase.
 _Firebase_ is a mobile and web application development platform, with over 18 cloud products, used by over 1.5 million apps (end 2018). 
