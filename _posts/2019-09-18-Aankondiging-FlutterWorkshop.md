@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Workshop - Flutter and Firebase (2019-09-11)
+title: Workshop - Flutter and Firebase (2019-09-18)
 date: 2019-09-18 19:00 - 22:00
 ---
 <br/>
