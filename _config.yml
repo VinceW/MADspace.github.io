@@ -1,12 +1,13 @@
 # Site settings
-title: De Eindhovense Hackerspace
+title: MADspace - Hackerspace Eindhoven
 url: "https://madspace.nl"
 
 description: MADspace. De eerste officiële hackerspace in Eindhoven. Opgericht op 25 juli 2013 te Eindhoven.
-keywords: stichting, madspace, foundation, home, hackerspace, eindhoven, bestuur, koen aben, huub de beer, joost hoeks, tom geelen, joris peels, contact
+keywords: stichting, madspace, foundation, home, hackerspace, eindhoven, bestuur, koen aben, joost hoeks, tom geelen, contact
 
 # Build settings
 markdown: kramdown
+future: true
 
 collections:
   posts:
@@ -15,4 +16,5 @@ collections:
     output: true
   projects:
     output: true
-
+  securityProjects:
+    output: true

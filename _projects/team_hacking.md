@@ -1,20 +1,13 @@
 ---
 layout: project
-title: Team Hacking
+title: Hackatons
 ---
 
-# Team Hacking ;-)
-### Alles over team hacking!
+### Alles over Hackatons!
 
-We zijn al enige tijd bezig met de MADspace avonden, maar hebben tot op heden nog niet echt een project uitgevoerd. Hoewel de avonden vaak leuk en ook interessant zijn, willen we nu graag met een concreet en tastbaar project starten. Dus projecten voor en door hackers.
+In regio Eindhoven zijn regelmatig hackatons: erg leuk om aan mee te doen! Deze kondigen we dan aan op [onze website](https://www.madspace.nl).
 
-We willen onze MADspace avonden meer structuur en vorm geven door aan de slag te gaan met reële projecten. Een aantal hackers werken een maand lang aan een individueel of gezamenlijk project dat past bij een bepaald thema. Ze vormen hierbij een open leergemeenschap van hackers die elkaar ondersteunen bij het realiseren van hun projecten. Iedere hacker, ongeacht haar (voor)kennis kan meedoen. De hackers worden bijgestaan door een of meerdere experts. Een expert is een hacker die al eerder een vergelijkbaar project tot een goed einde heeft gebracht. Na afloop van het project kunnen de hackers zelf ook optreden als expert bij andere vergelijkbare projecten.
-
-**Behulpzame basis**
-
-Het zou leuk zijn als we gedurende het gekozen project alles documenteren op deze wiki. De voorbereiding, de materiaalkeuze, de plannen, de tekeningen, de schetsen en dergelijke fotograferen we en voorzien we van een eenvoudig verslag. Iedereen kan zo de vorderingen volgen. We zijn bereid om kleine donaties te doen voor het 'eerste echte project' wat van de grond komt.
-
-Hierbij een opsomming van mogelijk te starten projecten.
+Hieronder een opsomming van mogelijke projecten:
 
 ### Mechanica
 
@@ -34,15 +27,6 @@ Hierbij een opsomming van mogelijk te starten projecten.
 * [Workshop Arduino / Beagleboard / Raspberry-PI](http://www.youtube.com/watch?v=GB_f6IwzG1M&feature=related)
 * [Modelbouw; Pendelautomaatje, om modeltrein van punt A <> B te laten rijden met optreksnelheid, afremming en omkeren van richting](http://www.youtube.com/watch?v=WDp2aeajWeU)
 
-### 3D printen
+### 
 
-Een bestaand ontwerp afdrukken met een 3D-printer is niet moeilijk. Maar zelf een object ontwerpen, ontwikkelen en tot slot afdrukken is een stuk lastiger. Waar te beginnen? Welke software kun je ervoor gebruiken? Hoe werkt die software? Waar moet je op letten bij het ontwikkelen van een model? Welke printer kunnen we het best gebruiken? En welk materiaal. 3D printen is voor iedereen, mogelijke ideeën en wensen:
-
-* Een case voor de Raspberry Pi
-* Een stuk sieraad
-* Een onderdeel voor in de modelbouw
-* Een sculptuur
-
-Wie doet er mee met het leren ontwerpen en printen van een 3D object?
-
-Kortom, genoeg leuke dingen te vinden, just get started!!
+Meedoen met hackatons? Meer weten? Informeer dan bij onze bijeenkomsten. 

@@ -1,8 +1,12 @@
 ---
-layout: post
-title: Hoe plaats ik content op de website?
+layout: project
+title: Writing on technology
 date:   2018-03-07 16:16:01
 ---
+
+# Introductie
+Kennisdelen is natuurlijk altijd nuttig en leuk! Hieronder handige tips voor het publiceren op de MADspace website. Als deelnemer kunt je ook content voor de website opsturen naar [info@madspace.nl](info@madspace.nl), dan plaatsen we het voor je op de website.  
+
 
 # Hoe plaats ik content op de website?
 
@@ -10,9 +14,9 @@ date:   2018-03-07 16:16:01
 * Maak of bewerk de content 
 * Na het maken van de aanpassingen, push de repository en maak een pull request
 
-We volgen de methode zoals deze wordt beschreven op de pagina's over [forking](https://help.github.com/articles/fork-a-repo/) en [syncing](https://help.github.com/articles/syncing-a-fork/)
+We volgen de methode zoals beschreven op de pagina's over [forking](https://help.github.com/articles/fork-a-repo/) en [syncing](https://help.github.com/articles/syncing-a-fork/)
 
-## Hoe plaats ik een projectpagina op de website?
+## 1. Hoe plaats ik _een projectpagina_ op de website?
 
 * Maak een nieuwe projectpagina aan in de _projects directory
 
@@ -28,7 +32,7 @@ Begin de pagina met wat frontmatter:
 Daarna kun je er voor kiezen om de content in html of in markdown in het document te zetten.
 
 
-## Hoe plaats ik een deelnemerspagina op de website?
+## 2. Hoe plaats ik _een deelnemerspagina_ op de website?
 
 * Maak een nieuwe deelnemerspagina aan in de _participants directory
 
@@ -43,7 +47,7 @@ Begin de pagina met wat frontmatter:
 
 Daarna kun je er voor kiezen om de content in html of in markdown in het document te zetten.
 
-## Hoe plaats ik een blogpost op de website?
+## 3. Hoe plaats ik _een blogpost_ op de website?
 
 * Maak een nieuwe blogpost pagina aan in de _posts directory
 
